@@ -1,0 +1,23 @@
+{
+  "name": "Lesson-22-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Gutu/Lesson-22-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Gutu/Lesson-22-hw/issues"
+  },
+  "homepage": "https://github.com/R-Gutu/Lesson-22-hw#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
